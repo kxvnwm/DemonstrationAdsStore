@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DemonstrationAdsStore/DemonstrationAdsStore.csproj" />
+  <Project Path="DemonstrationAdStoreTests/DemonstrationAdStoreTests.csproj" />
+</Solution>
